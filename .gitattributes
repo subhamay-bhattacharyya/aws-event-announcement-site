@@ -1,0 +1,7 @@
+# Create .gitattributes in each repo
+*.tf linguist-language=HCL
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
+*.yaml linguist-language=YAML
+*.yml linguist-language=YAML
+*.json linguist-language=JSON
