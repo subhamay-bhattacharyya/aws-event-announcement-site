@@ -1,5 +1,5 @@
 {
-  "stackName": "aws-event-announcement-website-stack",
+  "stackName": "aws-event-announcement-system-stack",
   "templateFile": "cloudformation/template.yaml",
   "parameterFile": "cloudformation/parameters.json"
 }

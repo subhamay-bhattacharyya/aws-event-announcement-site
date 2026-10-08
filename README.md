@@ -1,19 +1,19 @@
 # AWS Event Announement Site
 
 <!-- Row 1: Status - Most Important -->
-[![Release](https://img.shields.io/github/v/release/subhamay-bhattacharyya/aws-event-announcement-site?label=Release)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-site/releases)&nbsp;[![Release Workflow](https://github.com/subhamay-bhattacharyya/aws-event-announcement-site/actions/workflows/release.yaml/badge.svg)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-site/actions/workflows/release.yaml)&nbsp;[![Issues](https://img.shields.io/github/issues/subhamay-bhattacharyya/aws-event-announcement-site)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-site/issues)&nbsp;[![Last Commit](https://img.shields.io/github/last-commit/subhamay-bhattacharyya/aws-event-announcement-site)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-site/commits)
+[![Release](https://img.shields.io/github/v/release/subhamay-bhattacharyya/aws-event-announcement-system?label=Release)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-system/releases)&nbsp;[![Release Workflow](https://github.com/subhamay-bhattacharyya/aws-event-announcement-system/actions/workflows/release.yaml/badge.svg)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-system/actions/workflows/release.yaml)&nbsp;[![Issues](https://img.shields.io/github/issues/subhamay-bhattacharyya/aws-event-announcement-system)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-system/issues)&nbsp;[![Last Commit](https://img.shields.io/github/last-commit/subhamay-bhattacharyya/aws-event-announcement-system)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-system/commits)
 
 <!-- Row 2: Code Quality -->
-[![Top Language](https://img.shields.io/badge/Languages-Python%20%7C%20YAML-blue)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-site)&nbsp;[![Commits](https://img.shields.io/github/commit-activity/t/subhamay-bhattacharyya/aws-event-announcement-site)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-site/commits)
+[![Top Language](https://img.shields.io/badge/Languages-Python%20%7C%20YAML-blue)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-system)&nbsp;[![Commits](https://img.shields.io/github/commit-activity/t/subhamay-bhattacharyya/aws-event-announcement-system)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-system/commits)
 
 <!-- Row 3: Tech Stack -->
 [![CloudFormation](https://img.shields.io/badge/CloudFormation-IaC-orange?logo=amazonaws&logoColor=white)](https://aws.amazon.com/cloudformation/)&nbsp;[![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=anthropic&logoColor=white)](https://claude.ai/)
 
 <!-- Row 4: Repository Info -->
-[![Files](https://img.shields.io/github/directory-file-count/subhamay-bhattacharyya/aws-event-announcement-site)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-site)&nbsp;[![Repo Size](https://img.shields.io/github/repo-size/subhamay-bhattacharyya/aws-event-announcement-site)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-site)&nbsp;[![Release Date](https://img.shields.io/github/release-date/subhamay-bhattacharyya/aws-event-announcement-site)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-site/releases)
+[![Files](https://img.shields.io/github/directory-file-count/subhamay-bhattacharyya/aws-event-announcement-system)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-system)&nbsp;[![Repo Size](https://img.shields.io/github/repo-size/subhamay-bhattacharyya/aws-event-announcement-system)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-system)&nbsp;[![Release Date](https://img.shields.io/github/release-date/subhamay-bhattacharyya/aws-event-announcement-system)](https://github.com/subhamay-bhattacharyya/aws-event-announcement-system/releases)
 
 <!-- Row 5: Custom Metrics -->
-[![Custom Endpoint](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/f55f73ac88992d4bd5c9835ee5fd70b6/raw/aws-event-management-site.json)](https://gist.github.com/subhamay-bhattacharyya/f55f73ac88992d4bd5c9835ee5fd70b6)
+[![Custom Endpoint](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/3170225318822965fa169a1dcecd9e1a/raw/aws-event-management-system.json)](https://gist.github.com/subhamay-bhattacharyya/3170225318822965fa169a1dcecd9e1a)
 
 This repository contains nested CloudFormation templates for deploying S3 buckets with security best practices and optional policy enforcement.
 
